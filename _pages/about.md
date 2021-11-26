@@ -34,7 +34,7 @@ Founder, Turing Research (Stealth)
 
 <b>Primary interests:</b> Algorithms, Operations Research, AI, Mobility
 
-My passion is to build a two-way bridge connecting research with practice. I firmly believe that the wide gap separating academic research from real-world problems (especially in computational fields) is far from optimal. Closing this gap faces immense intellectual and societal barriers. I work to realize the dream that lies on the other side of these barriers - challenges of common people fueling fundamental scientific progress; the breakthroughs, in turn, turning into technologies powering disruptions that ease societal pain.
+My passion is to build a two-way bridge connecting research with practice. I firmly believe that the wide gap separating academic research from real-world problems (especially in computational fields) is far from optimal. Closing this gap faces immense intellectual and societal barriers. I work to realize the dream that lies on the other side of these barriers - challenges of common people fueling fundamental scientific progress; these breakthroughs, in turn, turning into technologies powering disruptions that ease societal pain.
 
 My work spans theoretical research to develop algorithms and insights, applied research to develop technologies, and taking research out of the lab to build products.
 
