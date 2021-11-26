@@ -28,7 +28,7 @@ Founder, Turing Research (Stealth)
 
 ***
 
-<b>Contact:</b> For prompt replies, please direct your enquiries on Turing Research (including career opportunities) to our [company email](mailto:hello@turingres.com). If required, you can reach me [here](mailto:chinmoy@turingres.com).
+<b>Contact:</b> For prompt response, please direct your enquiries on Turing Research (including career opportunities) to our [company email](mailto:hello@turingres.com). If required, you can reach me [here](mailto:chinmoy@turingres.com).
 
 ***
 
